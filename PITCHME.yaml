@@ -3,3 +3,4 @@ theme-override : PITCHME.css
 background : images/uas-bg_edited.jpg   
 transition : slide
 logo : images/logo-CGIS_black-50.png
+layout : center-left
