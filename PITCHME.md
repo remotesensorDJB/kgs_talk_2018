@@ -6,12 +6,51 @@
 ---
 @title[the plan]
 ### the plan
+- Quick introduction
+- Brief Overview of the UofL Center for GIS
 - Overview of the small UAS Landscape
 - Regulatory Landscape
 - UAS Mapping Operations
 - Structure from Motion Image Processing
 - UAS Research at UofL 
 ---
+@title[introduction]
+### About me 
+- GIS Technology Consultant @ UofL 
+- B.S./M.S. in Applied Geography from UofL
+- GISP Certification
+- Active in KAMP as board member and committee member
+---
+@title[ULCGIS Overview]
+### ULCGIS Mission
+> @size[.6em](Established in 1996, the mission of the University of Louisville Center for Geographic Information Sciences is to provide instruction, applications, and research in geographic information systems technology.  The resources of the Center for GIS are available to professional staff, students, and faculty to provide service and products to individuals and agencies of the University, and the local and state community.)
++++
+### Program Overview
+![ULCGIS Overview](images/ULCGIS-Org-Chart.png)
++++
+### Instruction in Geospatial Technologies
+- Broad curriculum of courses in fundamentals and applications of geospatial technology
+- Students from all disciplines, both undergraduate and graduate level 
+- Technical skills training and emphasis on critical thinking position students for job market or advanced degrees
+- Curriculum highlights
+  - Intro to Programming for GIS
+  - Web Mapping (new for Fall 2018)
+  - Survey of UAS Technologies (new for Spring 2019)
+  - Undergraduate certificate program: online for Fall 2018
+- ESRI-based practical experience
++++
+- Administration: GIS Consulting for internal clients
+![Fire Map](images/firemap.png)
++++
+- Administration: GIS Consulting for internal clients
+![Enrollment Map](images/enrollment.png)
++++
+- Administration: GIS Consulting for internal clients
+![Commuter Map](images/commute.jpg)
++++
+- Administration: GIS Consulting for internal clients
+![Flood Map](images/floodmap.jpg)
++++
 @title[Overview of the UAS Landscape]
 ### A definition
 > Unmanned Aerial Systems (UAS) consist of...
@@ -283,7 +322,7 @@ Mill Branch, Knox County, KY after stream restoration
 +++
 ![Stonecoal Video](https://www.youtube.com/embed/oggkjrZpJgk)
 +++
-![Stonecoal Preiew](images/stonecoal_preview.jpg)
+![Stonecoal Preview](images/stonecoal_preview.jpg)
 +++
 ![Stonecoal Ortho](images/morehead_ortho.jpg)
 
