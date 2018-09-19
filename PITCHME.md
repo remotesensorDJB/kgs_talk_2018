@@ -208,6 +208,9 @@
 +++
 ![Pix4D Animation](https://www.youtube.com/embed/5EWswPe53A8)
 ---
+#### What about LiDAR??
+- Key advantages of SfM vs LiDAR
+---
 #### UAS Research Group at UofL
 - Small cohort of faculty, staff, and students
 - Fleet of drones:
