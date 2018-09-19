@@ -8,8 +8,8 @@
 #### the plan
 - Quick introduction
 - Overview of the UofL Center for GIS
-- Overview of the current UAS Landscape
-- UAS Mapping Operations
+- Overview of the small UAS Landscape
+- UAS Mapping Applications
 - Structure from Motion Image Processing
 - UAS Applications at UofL 
 ---
@@ -28,7 +28,7 @@
 ![ULCGIS Overview](images/ULCGIS-Org-Chart.png)
 +++
 #### Instruction in Geospatial Technologies
-- Courses in both fundamentals & applications of geospatial tech
+- Courses in fundamentals & applications of geospatial tech
 - Students from all disciplines/undergraduate & graduate 
 - Curriculum highlights
   - Intro to Programming for GIS
@@ -65,8 +65,10 @@
 ![Hackathon Press](images/hackathon_press.png) 
 ---
 @title[Overview of the UAS Landscape]
+#### Overview of small UAS Landscape
+@title[A definition]
 #### A definition
-> Unmanned Aerial Systems (UAS) consist of...
+> Unmanned Aerial Systems (UAS) are aircraft with no pilot on board, consisting of...
 > - an unmanned aerial vehicle (UAV/RPV/drone)
 > - a ground-based controller/operator
 > - communications between the two
@@ -87,7 +89,7 @@
 #### Modern small UAS/imaging drones
 #### Fixed wing vs multirotor
 - Fixed wing
- - Simpler structure
+ - Simpler structure/more resiliant
  - Greater endurance/flight time
  - Bigger payloads (larger sensors)
  - No stationary flight
@@ -104,13 +106,13 @@
 ![eBee](http://images.gizmag.com/inline/ebee-1.jpg)
 +++
 #### Fixed wing: Trimble UX5
-![UX5](http://www.geo-matching.com/upload/2192-general.jpg)
+![UX5](https://www.neigps.com/wp-content/uploads/2014/01/UX5.jpg)
 +++
 #### Fixed Wing: 3DR Aero-M
 ![Aero Drone](http://www.droidika.com/wp-content/uploads/2015/04/001_aerom.jpg)
 +++
 #### Multirotor: DJI Phantom
-![Phantom](https://www.drone-world.com/media/catalog/product/cache/1/image/730x487/9df78eab33525d08d6e5fb8d27136e95/p/4/p4_pro_plus-v2.jpg)
+![Phantom](https://www.extremetech.com/wp-content/uploads/2016/03/DJI-Phantom-4-looks-great-and-is-clearly-streamlined-640x353.jpg)
 +++
 #### Multirotor: DJI Mavic Pro
 ![Mavic](https://www.drone-world.com/media/catalog/product/cache/1/image/730x487/9df78eab33525d08d6e5fb8d27136e95/m/a/mavicpro_remote.jpg)
@@ -124,22 +126,22 @@
 #### Meow-lti-rotor: Orville the Drone Cat
 ![Orville the drone cat](https://www.youtube.com/embed/fsdLU6D5PMo?start=27)
 ---
-#### small UAS Regulatory Landscape 
-- Hobbyist/Recreational Use: No license required! BUT!
- - < 55lbs
+#### Small UAS Regulatory Landscape 
+- For hobbyist/Recreational Use...no license required! BUT!
+ - UAS must be < 55lbs
  - flown within visual line-of-sight of operator
- - Notify ALL airports/helipads within 5 mi.
+ - Notify ALL airports/helipads within 5 mi. of flight area
 +++
-#### small UAS Regulatory Landscape
+#### Small UAS Regulatory Landscape
 - Commercial Operations
- - Fly under FAA Part 107 Rules
+ - Operations under FAA Part 107 Rules (as of 2016) 
  - Register UAS with FAA
  - Obtain Part 107 Remote PIC license
 +++
 #### FAA Part 107 Rules
 - <=400ft AGL 
 - Daytime only
-- Never over people
+- no flight over people (unless they are participants)
 - [Permission required in special airspace (< 5mi from controlled airports)](https://app.airmap.io/)
 - [FAA Part 107 Summary](https://www.faa.gov/uas/media/Part_107_Summary.pdf)
 ---
