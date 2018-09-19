@@ -174,6 +174,7 @@
   5. Mesh generation
   6. Orthomosaic/Digital Surface Model Generation
 +++
+@transition[fade-in fade-out]
 #### SfM Processing: Image Orientation
 ![Pix4D 1](images/pix4d_1.JPG)
 +++
