@@ -1,18 +1,17 @@
 @title[unmanned aerial systems research]
 ### unmanned aerial systems (uas)
-### research
+### applications
 #### @ UofL
 ###### D.J. Biddle, GISP
 ---
 @title[the plan]
 ### the plan
 - Quick introduction
-- Brief Overview of the UofL Center for GIS
-- Overview of the small UAS Landscape
-- Regulatory Landscape
+- Overview of the UofL Center for GIS
+- Overview of the current UAS Landscape
 - UAS Mapping Operations
 - Structure from Motion Image Processing
-- UAS Research at UofL 
+- UAS Applications at UofL 
 ---
 @title[introduction]
 ### About me 
@@ -37,10 +36,7 @@
   - Web Mapping (new for Fall 2018)
   - Survey of UAS Technologies (new for Spring 2019)
   - Undergraduate certificate program: online for Fall 2018
-- ESRI-based practical experience
-+++
-- Administration: GIS Consulting for internal clients
-![Fire Map](images/firemap.png)
+- ESRI-based practical applications
 +++
 - Administration: GIS Consulting for internal clients
 ![Enrollment Map](images/enrollment.png)
@@ -51,6 +47,24 @@
 - Administration: GIS Consulting for internal clients
 ![Flood Map](images/floodmap.jpg)
 +++
+- Interdisciplinary Research: Kent School of Social Work/KIPDA Needs Assessment
+![KIPDA Map](images/kipda.png)
++++
+- Interdisciplinary Research: Digital Humanities
+![Civil rights Mapping](images/KY_Freedom.JPG)
++++
+- Community Outreach: National Safe Place Network
+![RHYTTAC Map](images/rhyttac.png)
++++
+- Community Outreach: GIS Day Hackathon
+![Hackathon](images/hackathon.jpg)
++++
+- Community Outreach: GIS Day Hackathon
+![Hackathon Apps](images/hackathon_apps.png)
++++
+- Community Outreach: GIS Day Hackathon
+![Hackathon Press](images/hackathon_press.png) 
+---
 @title[Overview of the UAS Landscape]
 ### A definition
 > Unmanned Aerial Systems (UAS) consist of...
