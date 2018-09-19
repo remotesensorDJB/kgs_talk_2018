@@ -173,7 +173,7 @@
 ![Ray Cloud](https://4.bp.blogspot.com/-l4DIvz6Q8YQ/WMWS7lKOCMI/AAAAAAAABFI/-K1SItx8s0Y4XbRQlLXPsGlOOSJormMigCLcB/s1600/TyingDownGCPRAYCLOUDSgsadgsdgasdgdsg.png)
 +++
 #### Image Processing in AgiSoft Photoscan
-![Agisoft](images/agisoft.mp4)
+![Agisoft](http://www.ulcgis.org/agisoft.mp4)
 ---
 #### UAS Research Group at UofL
 - Small cohort of faculty, staff, and students
