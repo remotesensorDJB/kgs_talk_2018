@@ -302,7 +302,7 @@ Mill Branch, Knox County, KY after stream restoration
 +++
 ![Moody Lane site](images/stream_moody.jpg)
 +++
-![Moody Lane site](images/Animation.gif)
+![Moody Lane site](images/Animation2.gif)
 +++
 #### Stream Mapping 2.0
 ##### Stonecoal Branch, Morehead, KY (9 acres)
