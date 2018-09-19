@@ -177,24 +177,31 @@
 #### SfM Processing: Image Orientation
 ![Pix4D 1](images/pix4d_1.JPG)
 +++
+@transition[fade-in fade-out]
 #### SfM Processing: Image Orientation
 ![Pix4D 2](images/pix4d_2.JPG)
 +++
+@transition[fade-in fade-out]
 #### SfM Processing: Tie-Point Detection
 ![Pix4D 3](images/pix4d_3.JPG)
 +++
+@transition[fade-in fade-out]
 #### SfM Processing: Tie-Point Detection
 ![Pix4D 4](images/pix4d_4.JPG)
 +++
+@transition[fade-in fade-out]
 #### SfM Processing: Point Cloud Densification
 ![Pix4D 5](images/pix4d_5.JPG)
 +++
+@transition[fade-in fade-out]
 #### SfM Processing: Mesh Generation
 ![Pix4D 6](images/pix4d_6.JPG)
 +++
+@transition[fade-in fade-out]
 #### SfM Processing: Mesh Generation
 ![Pix4D 7](images/pix4d_7.JPG)
 +++
+@transition[fade-in fade-out]
 #### SfM Processing: Ortho/DSM Generation
 ![Pix4D 8](images/stonecoal_preview.jpg)
 +++
