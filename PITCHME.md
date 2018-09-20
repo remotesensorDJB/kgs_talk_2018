@@ -72,12 +72,13 @@
 > - an unmanned aerial vehicle (UAV/RPV/drone)
 > - a ground-based controller/operator
 > - communications between the two
----
++++
 #### Why UAS? 
 - Low-cost: Orders of magnitude less expensive than traditional aerial platforms
 - Ease of use: Modern equipment is robust and highly automated
-- Accurate: High-resolution (1 inch at 100m flight altitude)
-- Flexible: 
+- Accurate: High-resolution (1 inch at 100m flight alt.)/Subfoot accuracy w/ good ground control
+- Flexible: Deploy on demand/Access remote areas
++++
 @title[Modern small UAS]
 #### Modern small UAS/imaging drones
 - Standard Elements
@@ -85,12 +86,21 @@
  - Mission planning element
  - Command and control element
 +++
+![Pix4D Capture](https://pix4d.com/wp-content/uploads/2017/12/Pix4D_capture_screenshot_webpage_2017_adjust_flightplan.png)
++++
+![Pix4D Capture: In-Flight](https://support.pix4d.com/hc/en-us/article_attachments/201877706/map_view_grid_in_mission_p3a.png | width=75)
++++
 #### Modern small UAS/imaging drones
 - Standard Elements
  - Communication link
  - Payload (cameras/sensors/etc)
  - Launch and recovery element (if required)
----
++++
+#### Modern small UAS/imaging drones
+- Additional Elements
+ - GPS/GNSS/survey equipment
+ - Crew members (spotters/survey crew)
++++
 #### Modern small UAS/imaging drones
 #### Fixed wing vs multirotor
 - Fixed wing
