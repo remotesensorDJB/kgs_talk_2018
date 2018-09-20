@@ -104,10 +104,10 @@
 #### Modern small UAS/imaging drones
 #### Fixed wing vs multirotor
 - Fixed wing
- - Simpler structure/more resiliant
- - Greater endurance/flight time
- - Bigger payloads (larger sensors)
- - No stationary flight
+ - simpler structure/more resiliant
+ - greater endurance/flight time
+ - bigger payloads (larger sensors)
+ - no stationary flight or vertical takeoff/landing
 +++
 #### Modern small UAS/imaging drones
 #### Fixed wing vs multirotor
@@ -142,20 +142,20 @@
 ![Orville the drone cat](https://www.youtube.com/embed/fsdLU6D5PMo?start=27)
 ---
 #### Small UAS Regulatory Landscape 
-- For hobbyist/Recreational Use...no license required! BUT!
+- For hobbyist/recreational use...no license required! BUT!
  - UAS must be < 55lbs
  - flown within visual line-of-sight of operator
- - Notify ALL airports/helipads within 5 mi. of flight area
+ - notify ALL airports/helipads within 5 mi. of flight area
 +++
 #### Small UAS Regulatory Landscape
 - Commercial Operations
- - Operations under FAA Part 107 Rules (as of 2016) 
- - Register UAS with FAA
- - Obtain Part 107 Remote PIC license
+ - operations under FAA Part 107 rules (as of 2016) 
+ - register UAS with FAA
+ - obtain Part 107 Remote PIC license
 +++
 #### FAA Part 107 Rules
 - <=400ft AGL 
-- Daytime only
+- daytime only
 - no flight over people (unless they are participants)
 - [Permission required in special airspace (< 5mi from controlled airports)](https://app.airmap.io/)
 - [FAA Part 107 Summary](https://www.faa.gov/uas/media/Part_107_Summary.pdf)
@@ -224,9 +224,9 @@
 #### UAS Research Group at UofL
 - Small cohort of faculty, staff, and students
 - Fleet of drones:
- - 2 x DJ Mavic Pro, 1 x DJI Phantom 4 Pro, 2 x 3DR X8, 2 x 3DR Aero
+ - DJ Mavic Pro, DJI Phantom 4 Pro, 3DR X8, 3DR Aero
 - Parrot Sequoia NIR sensor for vegetation applications
-- GNSS equiment for ground control survey
+- GNSS equipment for ground control survey
 - 2 FAA licensed Part 107 Remote Pilots
 - Workstations and SfM software for processing imagery
 +++
@@ -304,7 +304,6 @@
 +++
 #### Next Steps
 - Refly area using ground control points for increased accuracy
-- Process imagery in Pix4D Mapper Pro
 - Derive historic vegetation characteristics from maps and texts
 - Generate 3D model for terrain analysis
 - Create series of 3D and timeenabled story maps for reinterpretation of battle
@@ -381,28 +380,23 @@ Mill Branch, Knox County, KY after stream restoration
 +++
 ![Stonecoal Flight Plan](images/stonecoal_flight.JPG)
 +++
-![Stonecoal Video](https://www.youtube.com/embed/oggkjrZpJgk)
+![Stonecoal Video](https://www.youtube.com/embed/gHZW0ufTZLY)
 +++
 ![Stonecoal Preview](images/stonecoal_preview.jpg)
 +++
 ![Stonecoal Ortho](images/morehead_ortho.jpg)
-
 Orthophoto
 +++
 ![Stonecoal Ortho Zoom](images/morehead_ortho_zoom.JPG)
-
 Orthophoto Detail
 +++
 ![Stonecoal DSM](images/morehead_dsm.jpg)
-
 DSM
 +++
 ![Stonecoal DSM Zoom](images/morehead_dsm_zoom.jpg)
-
 DSM Detail
 +++
 ![Stonecoal Contours](images/morehead_contours_zoom.jpg)
-
 1 foot contour lines
 +++
 ###### 3D Site Model
@@ -414,6 +408,7 @@ https://www.dronedeploy.com/app2/data/59c9bd7d52db903288ddf60d
 - Explore derivative spatial products and their value to stream restoration research
 - Obtain funding to build capacity for more stream restoration mapping efforts
 ---
+
 #### Potential Applications for KGS?
 - Rapid landslide/mass movement assessment
 - Fine scale karst topography mapping
@@ -423,7 +418,7 @@ https://www.dronedeploy.com/app2/data/59c9bd7d52db903288ddf60d
 ### Thanks!
 
 ##### Any Questions? 
-#####Email me at <djbidd01@louisville.edu>
+##### Email me at <djbidd01@louisville.edu>
 
 
 
