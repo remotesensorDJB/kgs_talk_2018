@@ -88,7 +88,7 @@
 +++
 ![Pix4D Capture](https://pix4d.com/wp-content/uploads/2017/12/Pix4D_capture_screenshot_webpage_2017_adjust_flightplan.png)
 +++
-![Pix4D Capture: In-Flight](https://support.pix4d.com/hc/en-us/article_attachments/201877706/map_view_grid_in_mission_p3a.png | width=75)
+![Pix4D Capture: In-Flight](https://support.pix4d.com/hc/en-us/article_attachments/201877706/map_view_grid_in_mission_p3a.png)
 +++
 #### Modern small UAS/imaging drones
 - Standard Elements
