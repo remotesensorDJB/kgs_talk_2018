@@ -227,7 +227,8 @@
 - SfM data can't penetrate tree canopy  
 +++
 #### SfM vs LiDAR 
-![SfM v LiDAR](images/lidar.JPG)
+Source: <https://web.uvic.ca/~enissen/papers/johnson-etal-2014-geosphere.pdf>
+![SfM v LiDAR](images/lidar.JPG | width=800px)
 +++
 #### SfM vs USGS DEM
 ##### <http://fairbanksfodar.com/understanding-fodar>
