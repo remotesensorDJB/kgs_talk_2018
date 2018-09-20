@@ -382,7 +382,7 @@ Mill Branch, Knox County, KY after stream restoration
 +++
 ![Stonecoal Video](https://www.youtube.com/embed/gHZW0ufTZLY)
 +++
-![Stonecoal Preview](images/stonecoal_preview.jpg | width=80)
+![Stonecoal Preview](images/stonecoal_preview.jpg | width=50)
 +++
 ![Stonecoal Ortho](images/morehead_ortho.jpg | width=80)
 Orthophoto
