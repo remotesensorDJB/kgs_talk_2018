@@ -382,21 +382,21 @@ Mill Branch, Knox County, KY after stream restoration
 +++
 ![Stonecoal Video](https://www.youtube.com/embed/gHZW0ufTZLY)
 +++
-![Stonecoal Preview](images/stonecoal_preview.jpg)
+![Stonecoal Preview](images/stonecoal_preview.jpg | width=80)
 +++
-![Stonecoal Ortho](images/morehead_ortho.jpg)
+![Stonecoal Ortho](images/morehead_ortho.jpg | width=80)
 Orthophoto
 +++
-![Stonecoal Ortho Zoom](images/morehead_ortho_zoom.JPG)
+![Stonecoal Ortho Zoom](images/morehead_ortho_zoom.JPG | width=80)
 Orthophoto Detail
 +++
-![Stonecoal DSM](images/morehead_dsm.jpg)
+![Stonecoal DSM](images/morehead_dsm.jpg | width=80)
 DSM
 +++
-![Stonecoal DSM Zoom](images/morehead_dsm_zoom.jpg)
+![Stonecoal DSM Zoom](images/morehead_dsm_zoom.jpg | width=80)
 DSM Detail
 +++
-![Stonecoal Contours](images/morehead_contours_zoom.jpg)
+![Stonecoal Contours](images/morehead_contours_zoom.jpg | width=80)
 1 foot contour lines
 +++
 ###### 3D Site Model
