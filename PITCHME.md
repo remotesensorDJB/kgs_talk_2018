@@ -220,6 +220,17 @@
 ---
 #### What about LiDAR??
 - Key advantages of SfM vs LiDAR
+ - Cost: LiDAR still expensive to commission
+ - More temporal flexibility
+ - Collect co-registered ortho and DSM simultaneously
+- LiDAR advantage: Multiple returns (first return > bare Earth)
+- SfM data can't penetrate tree canopy  
++++
+#### SfM vs LiDAR 
+![SfM v LiDAR](image/lidar.JPG)
++++
+#### SfM vs USGS DEM
+##### <http://fairbanksfodar.com/understanding-fodar>
 ---
 #### UAS Research Group at UofL
 - Small cohort of faculty, staff, and students
