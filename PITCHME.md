@@ -433,23 +433,32 @@ https://www.dronedeploy.com/app2/data/59c9bd7d52db903288ddf60d
 - 100m altitude, 200x200m footprints
 - DJI Mavic Pro w/ Parrot Sequoia mulstipectral sensor
 +++
+@transition[fade-in fade-out]
 ![KAZAVA Mavic](images/kazava_mavic.png)
 +++
+@transition[fade-in fade-out]
 ![KAZAVA Group](images/kazava_group.png)
 +++
+@transition[fade-in fade-out]
 ![KAZAVA Field](images/kazava_field.png)
 +++
-![KAZAVA Landsat](images/kazava_landsat.png)
+@transition[fade-in fade-out]
+![KAZAVA Landsat](images/kazava_landsat.png | width=70)
 +++
-![KAZAVA Rapideye](images/kazava_rapideye.jpg)
+@transition[fade-in fade-out]
+![KAZAVA Rapideye](images/kazava_rapideye.jpg | width=70)
 +++
-![KAZAVA Sequoia](images/kazava_sequoia.jpg)
+@transition[fade-in fade-out]
+![KAZAVA Sequoia](images/kazava_sequoia.jpg | width=70)
 +++
-![KAZAVA Ortho](images/kazava_ortho.jpg)
+@transition[fade-in fade-out]
+![KAZAVA Ortho](images/kazava_ortho.jpg | width=70)
 +++
-![KAZAVA NDVI](images/kazava_ndvi.jpg)
+@transition[fade-in fade-out]
+![KAZAVA NDVI](images/kazava_ndvi.jpg | width=70)
 +++
-![KAZAVA Canopy](images/kazava_canopy.jpg)
+@transition[fade-in fade-out]
+![KAZAVA Canopy](images/kazava_canopy.jpg | width=70)
 +++
 #### Potential Applications for KGS?
 - Rapid landslide/mass movement assessment
