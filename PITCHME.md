@@ -38,22 +38,16 @@
 - ESRI-based practical applications
 +++
 - Administration: GIS Consulting for internal clients
-![Enrollment Map](images/enrollment.png)
-+++
-- Administration: GIS Consulting for internal clients
 ![Commuter Map](images/commute.jpg)
 +++
 - Administration: GIS Consulting for internal clients
 ![Flood Map](images/floodmap.jpg)
 +++
-- Interdisciplinary Research: Kent School of Social Work/KIPDA Needs Assessment
+- Interdisciplinary Research: Kent School of Social Work
 ![KIPDA Map](images/kipda.png)
 +++
 - Interdisciplinary Research: Digital Humanities
 ![Civil rights Mapping](images/KY_Freedom.JPG)
-+++
-- Community Outreach: National Safe Place Network
-![RHYTTAC Map](images/rhyttac.png)
 +++
 - Community Outreach: GIS Day Hackathon
 ![Hackathon](images/hackathon.jpg)
@@ -165,7 +159,7 @@
 - Topographic Mapping/Digital Terrain Modelling
 - Photogrammetry/Volumetric Survey
 - IR/Thermal analysis
-- Vegetation mapping
+- Vegetation mapping/health assessment
 +++
 #### Mapping applications of small UAS
 - Structure from Motion (SfM) image processing
@@ -267,18 +261,13 @@
 - October 8th, 1862
 - Confederate General Braxton Bragg makes camp with his army on Doctor's Creek near Perryville
 - Union Army, led by Gen. Don Carlos Buell, pursues Bragg from the west
+- Hilly terrain plays key role in dynamics of the battle. 
 +++
 #### Perryville Battlefield Mapping
 ###### Background Information
-- Knobs to the west of town provide high ground for defensive positions for Bragg's soldiers
-- Bragg orders attack on Union positions, but Union army uses cloak of hilly terrain to surprise advancing Confederates. 
-- Repeatedly, Union forces retreated before General Bragg's men and established new defensive lines on another ridge.
-+++
-#### Perryville Battlefield Mapping
-###### Background Information
-- Depressions and hills were not obvious to soldiers during the battle and led to a series of tragic mistakes by commanders on both sides.
+- Depressions and hills were not obvious to soldiers as battle progresses and led to a series of tragic mistakes by commanders on both sides.
 - Units found themselves in the midst of withering crossfire because the terrain had forced them into an unfavorable position.
-- At the same time, this terrain led to a phenomenon called acoustic shadow. Union General Don Carlos Buell, hence, could not hear the battle from his headquarters and did not send vital reinforcements on time
+- Terrain/vegetation creates phenomenon called acoustic shadow. Union General Don Carlos Buell, hence, could not hear the battle from his headquarters and did not send vital reinforcements on time
 +++
 #### Perryville Battlefield Terrain Analysis
 - Using digital terrain data from LiDAR and UAS, recreate the setting of the battle:
@@ -319,6 +308,8 @@
 - Derive historic vegetation characteristics from maps and texts
 - Generate 3D model for terrain analysis
 - Create series of 3D and timeenabled story maps for reinterpretation of battle
++++
+![Perryville Terrain](images/TerrainMaster3D.PNG)
 ---
 #### UofL Stream Institute 
 ###### Stream Restoration Mapping
@@ -328,11 +319,9 @@
 - Miitigate erosion, promote healthy vegetation communities, aquatic life
 +++
 ![Before restoration](images/stream_rest_b4_sm.jpg)
-
 Mill Branch, Knox County, KY before stream restoration
 +++
 ![After restoration](images/stream_rest_aft_sm.jpg)
-
 Mill Branch, Knox County, KY after stream restoration
 +++
 #### UofL Stream Institute
@@ -346,8 +335,9 @@ Mill Branch, Knox County, KY after stream restoration
 - Moody Lane site in Oldham County
 - Mission flown using a Blade QX4 UAV with a GoPro camera
 - This combo does not encode coordinate information to image EXIF data
+- UAS GPS navigation system also of poor reliability
 - Even with ground control, resulting image quality was lacking
-- GPS navigation system also of poor reliability
+
 +++
 ![Moody Lane site](images/moody1.JPG)
 +++
@@ -420,7 +410,47 @@ https://www.dronedeploy.com/app2/data/59c9bd7d52db903288ddf60d
 - Explore derivative spatial products and their value to stream restoration research
 - Obtain funding to build capacity for more stream restoration mapping efforts
 ---
-
+#### KAZAVA Vulnerability and Adaptation Project
+- Broad objective:
+ > Facilitate a broader understanding of how livelihoods, land use, and the environment are changing in a transfrontier conservation area in Southern Africa
++++
+#### KAZAVA Vulnerability and Adaptation Project
+- Broad objective:
+ > Determine leverage points in a conceptual framework that might mitigate how land-use decisions and land-cover change affect household vulnerability
++++
+![KAZAVA Map](images/kazava_map.png) 
++++
+#### KAZAVA Vulnerability and Adaptation Project
+- Surveys (n=480) to measure household capitals (economic, human, natural, physical, social)
+- Moderate resolution satellite imagery (Landsat/RapidEye) to measure vegetation productivity
+- Targeted UAS imagery to link household survey/resilience to courser satellite imagery
+- Spectral unmixing based on UAS derived training data 
+- Remotely sensed estimates of household vulnerability from climate variability
++++
+#### KAZAVA Field Operations
+- Dry season, June 2018
+- 60 flights
+- 100m altitude, 200x200m footprints
+- DJI Mavic Pro w/ Parrot Sequoia mulstipectral sensor
++++
+![KAZAVA Mavic](images/kazava_mavic.png)
++++
+![KAZAVA Group](images/kazava_group.png)
++++
+![KAZAVA Field](images/kazava_field.png)
++++
+![KAZAVA Landsat](images/kazava_landsat.png)
++++
+![KAZAVA Rapideye](images/kazava_rapideye.jpg)
++++
+![KAZAVA Sequoia](images/kazava_sequoia.jpg)
++++
+![KAZAVA Ortho](images/kazava_ortho.jpg)
++++
+![KAZAVA NDVI](images/kazava_ndvi.jpg)
++++
+[KAZAVA Crown](images/kazava_canopy.jpg)
++++
 #### Potential Applications for KGS?
 - Rapid landslide/mass movement assessment
 - Fine scale karst topography mapping
