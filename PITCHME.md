@@ -422,10 +422,10 @@ https://www.dronedeploy.com/app2/data/59c9bd7d52db903288ddf60d
 +++
 #### KAZAVA Vulnerability and Adaptation Project
 - Surveys (n=480) to measure household capitals (economic, human, natural, physical, social)
-- Moderate resolution satellite imagery (Landsat/RapidEye) to measure vegetation productivity
-- Targeted UAS imagery to link household survey/resilience to courser satellite imagery
-- Spectral unmixing based on UAS derived training data 
-- Remotely sensed estimates of household vulnerability from climate variability
+- Moderate resolution satellite imagery (Landsat/RapidEye) to measure vegetation productivity at landscape scale
+- Targeted UAS imagery to link household survey/resilience to coarser satellite imagery
+- Spectral unmixing based on UAS-derived training data 
+- Remotely-sensed estimates of household vulnerability from climate variability
 +++
 #### KAZAVA Field Operations
 - Dry season, June 2018
@@ -449,7 +449,7 @@ https://www.dronedeploy.com/app2/data/59c9bd7d52db903288ddf60d
 +++
 ![KAZAVA NDVI](images/kazava_ndvi.jpg)
 +++
-[KAZAVA Crown](images/kazava_canopy.jpg)
+![KAZAVA Canopy](images/kazava_canopy.jpg)
 +++
 #### Potential Applications for KGS?
 - Rapid landslide/mass movement assessment
