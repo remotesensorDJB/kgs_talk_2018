@@ -1,7 +1,7 @@
 theme : white
 theme-override : PITCHME.css
 background : images/uas-bg_edited.jpg   
-background-size : contain
+background-size : "90% 90%"
 transition : slide
 logo : images/logo-CGIS_black-50.png
 layout : center-left
