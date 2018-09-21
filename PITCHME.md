@@ -424,7 +424,7 @@ https://www.dronedeploy.com/app2/data/59c9bd7d52db903288ddf60d
 - Surveys (n=480) to measure household capitals (economic, human, natural, physical, social)
 - Moderate resolution satellite imagery (Landsat/RapidEye) to measure vegetation productivity at landscape scale
 - Targeted UAS imagery to link household survey/resilience to coarser satellite imagery
-- Spectral unmixing based on UAS-derived training data 
+- Fractional land-cover estimates based on UAS-derived training data 
 - Remotely-sensed estimates of household vulnerability from climate variability
 +++
 #### KAZAVA Field Operations
