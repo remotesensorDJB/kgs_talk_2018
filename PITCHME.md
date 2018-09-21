@@ -446,7 +446,7 @@ https://www.dronedeploy.com/app2/data/59c9bd7d52db903288ddf60d
 ![KAZAVA Landsat](images/kazava_landsat.png | width=70)
 +++
 @transition[fade-in fade-out]
-![KAZAVA Rapideye](images/kazava_rapideye.jpg | width=70)
+![KAZAVA Rapideye](images/kazava_rapideye.jpg | width=50)
 +++
 @transition[fade-in fade-out]
 ![KAZAVA Sequoia](images/kazava_sequoia.jpg | width=70)
