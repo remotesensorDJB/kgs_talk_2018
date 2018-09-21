@@ -465,11 +465,11 @@ https://www.dronedeploy.com/app2/data/59c9bd7d52db903288ddf60d
 - Fine scale karst topography mapping
 - Tracking dye tracer study results
 - General Reconnaissance/Field Situational Awareness  
----
++++
 #### Potential Applications for KGS?
 
 <http://www.geosociety.org/gsatoday/archive/25/7/article/i1052-5173-25-7-50.htm>
-
+---
 ### Thanks!
 
 ##### Any Questions? 
